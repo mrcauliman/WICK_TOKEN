@@ -1,0 +1,21 @@
+{
+  "name": "CONTINENTAL",
+  "symbol": "WICK",
+  "description": "$WICK is the native asset of the CONTINENTAL protocol—built on Solana for speed, discretion, and underworld utility.",
+  "image": "logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8qG1r9R8TAw9E4B1pCDmkWckmXtUaCRndktiYuYbAEpC",
+        "share": 100
+      }
+    ]
+  }
+}
